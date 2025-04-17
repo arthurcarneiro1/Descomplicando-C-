@@ -21,3 +21,4 @@ if (!chuva)// mudou o resultado para true
 {
     Console.Write("esta chovendo");
 }
+
